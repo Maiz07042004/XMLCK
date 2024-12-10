@@ -1,6 +1,6 @@
 ﻿namespace XMLCK
 {
-    partial class Form5
+    partial class Kho
     {
         /// <summary>
         /// Required designer variable.

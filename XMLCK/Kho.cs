@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace XMLCK
 {
-    public partial class Form5 : Form
+    public partial class Kho : Form
     {
-        public Form5()
+        public Kho()
         {
             InitializeComponent();
         }

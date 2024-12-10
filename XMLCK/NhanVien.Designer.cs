@@ -1,6 +1,6 @@
 ﻿namespace XMLCK
 {
-    partial class Form3
+    partial class NhanVien
     {
         /// <summary>
         /// Required designer variable.
@@ -36,7 +36,7 @@
             this.menu5 = new System.Windows.Forms.ToolStripMenuItem();
             this.TìmKiếmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.PictureBox1 = new System.Windows.Forms.PictureBox();
-            this.DataGrid1 = new System.Windows.Forms.DataGridView();
+            this.TableNV = new System.Windows.Forms.DataGridView();
             this.Button2 = new System.Windows.Forms.Button();
             this.Button5 = new System.Windows.Forms.Button();
             this.Button4 = new System.Windows.Forms.Button();
@@ -58,7 +58,7 @@
             this.Label2 = new System.Windows.Forms.Label();
             this.MenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TableNV)).BeginInit();
             this.GroupBox2.SuspendLayout();
             this.GroupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -137,18 +137,18 @@
             this.PictureBox1.TabIndex = 81;
             this.PictureBox1.TabStop = false;
             // 
-            // DataGrid1
+            // TableNV
             // 
-            this.DataGrid1.AllowUserToAddRows = false;
-            this.DataGrid1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.DataGrid1.BackgroundColor = System.Drawing.Color.LightCyan;
-            this.DataGrid1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DataGrid1.Location = new System.Drawing.Point(166, 457);
-            this.DataGrid1.Name = "DataGrid1";
-            this.DataGrid1.RowHeadersWidth = 51;
-            this.DataGrid1.RowTemplate.Height = 24;
-            this.DataGrid1.Size = new System.Drawing.Size(662, 158);
-            this.DataGrid1.TabIndex = 80;
+            this.TableNV.AllowUserToAddRows = false;
+            this.TableNV.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.TableNV.BackgroundColor = System.Drawing.Color.LightCyan;
+            this.TableNV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.TableNV.Location = new System.Drawing.Point(166, 457);
+            this.TableNV.Name = "TableNV";
+            this.TableNV.RowHeadersWidth = 51;
+            this.TableNV.RowTemplate.Height = 24;
+            this.TableNV.Size = new System.Drawing.Size(662, 158);
+            this.TableNV.TabIndex = 80;
             // 
             // Button2
             // 
@@ -339,7 +339,7 @@
             this.Label2.TabIndex = 65;
             this.Label2.Text = "QUẢN LÍ NHÂN VIÊN";
             // 
-            // Form3
+            // NhanVien
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -347,7 +347,7 @@
             this.ClientSize = new System.Drawing.Size(1026, 647);
             this.Controls.Add(this.MenuStrip1);
             this.Controls.Add(this.PictureBox1);
-            this.Controls.Add(this.DataGrid1);
+            this.Controls.Add(this.TableNV);
             this.Controls.Add(this.Button2);
             this.Controls.Add(this.Button5);
             this.Controls.Add(this.Button4);
@@ -363,13 +363,14 @@
             this.Controls.Add(this.Label5);
             this.Controls.Add(this.Label3);
             this.Controls.Add(this.Label2);
-            this.Name = "Form3";
+            this.Name = "NhanVien";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form3";
+            this.Load += new System.EventHandler(this.NhanVien_Load);
             this.MenuStrip1.ResumeLayout(false);
             this.MenuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TableNV)).EndInit();
             this.GroupBox2.ResumeLayout(false);
             this.GroupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -387,7 +388,7 @@
         internal System.Windows.Forms.ToolStripMenuItem menu5;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmToolStripMenuItem;
         internal System.Windows.Forms.PictureBox PictureBox1;
-        internal System.Windows.Forms.DataGridView DataGrid1;
+        internal System.Windows.Forms.DataGridView TableNV;
         internal System.Windows.Forms.Button Button2;
         internal System.Windows.Forms.Button Button5;
         internal System.Windows.Forms.Button Button4;

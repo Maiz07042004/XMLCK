@@ -24,56 +24,56 @@ namespace XMLCK
 
         private void menu1_Click(object sender, EventArgs e)
         {
-            Form3 Form3 = new Form3();
+            NhanVien Form3 = new NhanVien();
             Form3.Show();
             this.Hide();
         }
 
         private void menu2_Click(object sender, EventArgs e)
         {
-            Form4 Form3 = new Form4();
+            Thuoc Form3 = new Thuoc();
             Form3.Show();
             this.Hide();
         }
 
         private void menu3_Click(object sender, EventArgs e)
         {
-            Form5 Form3 = new Form5();
+            Kho Form3 = new Kho();
             Form3.Show();
             this.Hide();
         }
 
         private void menu4_Click(object sender, EventArgs e)
         {
-            Form6 Form3 = new Form6();
+            BanGiao Form3 = new BanGiao();
             Form3.Show();
             this.Hide();
         }
 
         private void TìmKiếmThuốcNhậpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form7 Form3 = new Form7();
+            TKThuocNhap Form3 = new TKThuocNhap();
             Form3.Show();
             this.Hide();
         }
 
         private void TìmKiếmNhânViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form8 Form3 = new Form8();
+            TKNV Form3 = new TKNV();
             Form3.Show();
             this.Hide();
         }
 
         private void TìmKiếmThôngTinThuốcToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form9 Form3 = new Form9();
+            TKThuoc Form3 = new TKThuoc();
             Form3.Show();
             this.Hide();
         }
 
         private void TìmKiếmThuốcBànGiaoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Form10 Form3 = new Form10();
+            TKBanGiao Form3 = new TKBanGiao();
             Form3.Show();
             this.Hide();
         }

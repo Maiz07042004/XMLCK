@@ -36,3 +36,22 @@ C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.
 C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.exe
 C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.pdb
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\bin\Debug\XMLCK.exe.config
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\bin\Debug\XMLCK.exe
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\bin\Debug\XMLCK.pdb
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.AssemblyReference.cache
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.DangNhap.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.TKBanGiao.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.QuanLiThuoc.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.NhanVien.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.Thuoc.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.Kho.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.BanGiao.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.TKThuocNhap.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.TKNV.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.TKThuoc.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.Properties.Resources.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.GenerateResource.cache
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.CoreCompileInputs.cache
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.exe
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.pdb

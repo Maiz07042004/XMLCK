@@ -1,81 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\",
+  "WorkspaceRootPath": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\users\\admin\\documents\\zalo received files\\xmlck\\xmlck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tkbangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkbangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tkthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tkthuocnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkthuocnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tknv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tknv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\bangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\bangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tkbangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkbangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tkthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tknv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tknv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\tkthuocnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkthuocnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\bangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\bangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\xmlck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -89,223 +89,236 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form4.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form4.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form4.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form4.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form4.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:37.824Z"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form5.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form5.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form5.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form5.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form5.cs [Design]",
+              "Title": "TKThuocNhap.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuocNhap.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKThuocNhap.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuocNhap.cs [Design]",
+              "RelativeToolTip": "XMLCK\\TKThuocNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:43.155Z"
+              "WhenOpened": "2024-11-25T15:15:07.612Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form6.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form6.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form6.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form6.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form6.cs [Design]",
+              "Title": "TKNV.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKNV.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKNV.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKNV.cs [Design]",
+              "RelativeToolTip": "XMLCK\\TKNV.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:48.342Z"
+              "WhenOpened": "2024-11-25T15:18:59.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TKThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKThuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuoc.cs [Design]",
+              "RelativeToolTip": "XMLCK\\TKThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:19:02.937Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form3.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form3.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form3.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form3.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form3.cs [Design]",
+              "Title": "TKBanGiao.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKBanGiao.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKBanGiao.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKBanGiao.cs [Design]",
+              "RelativeToolTip": "XMLCK\\TKBanGiao.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:05:58.199Z"
+              "WhenOpened": "2024-11-25T15:19:07.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\NhanVien.cs",
+              "RelativeDocumentMoniker": "XMLCK\\NhanVien.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\NhanVien.cs [Design]",
+              "RelativeToolTip": "XMLCK\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:05:58.199Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form2.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form2.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form2.cs [Design]",
-              "RelativeToolTip": "XMLCK\\Form2.cs [Design]",
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\NhanVien.cs",
+              "RelativeDocumentMoniker": "XMLCK\\NhanVien.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\NhanVien.cs",
+              "RelativeToolTip": "XMLCK\\NhanVien.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA0wBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:18:32.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BanGiao.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\BanGiao.cs",
+              "RelativeDocumentMoniker": "XMLCK\\BanGiao.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\BanGiao.cs [Design]",
+              "RelativeToolTip": "XMLCK\\BanGiao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:18:48.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kho.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Kho.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs [Design]",
+              "RelativeToolTip": "XMLCK\\Kho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:18:43.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Thuoc.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Thuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs [Design]",
+              "RelativeToolTip": "XMLCK\\Thuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:18:37.824Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Home.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Home.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Home.cs [Design]",
+              "RelativeToolTip": "XMLCK\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T15:14:24.664Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form10.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form10.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form10.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form10.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form10.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:19:07.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form7.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form7.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form7.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form7.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form7.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:15:07.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form8.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form8.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form8.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form8.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form8.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:59.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Form9.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form9.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form9.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form9.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form9.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:19:02.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form1.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form1.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\MonHoc\\124-HK1\\124-THXML\\XMLCK\\XMLCK\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:19:50.01Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Form10.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form10.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form10.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form10.cs",
-              "RelativeToolTip": "XMLCK\\Form10.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\DangNhap.cs",
+              "RelativeDocumentMoniker": "XMLCK\\DangNhap.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\DangNhap.cs [Design]",
+              "RelativeToolTip": "XMLCK\\DangNhap.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:19:08.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Form8.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form8.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form8.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form8.cs",
-              "RelativeToolTip": "XMLCK\\Form8.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:19:00.625Z"
+              "WhenOpened": "2024-11-25T15:19:50.01Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Form9.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form9.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form9.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form9.cs",
-              "RelativeToolTip": "XMLCK\\Form9.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Title": "TKBanGiao.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKBanGiao.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKBanGiao.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKBanGiao.cs",
+              "RelativeToolTip": "XMLCK\\TKBanGiao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:19:04.192Z"
+              "WhenOpened": "2024-11-25T15:19:08.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Form7.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form7.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form7.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form7.cs",
-              "RelativeToolTip": "XMLCK\\Form7.cs",
+              "Title": "TKNV.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKNV.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKNV.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKNV.cs",
+              "RelativeToolTip": "XMLCK\\TKNV.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:56.443Z"
+              "WhenOpened": "2024-11-25T15:19:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TKThuoc.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKThuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuoc.cs",
+              "RelativeToolTip": "XMLCK\\TKThuoc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:19:04.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Form6.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form6.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form6.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form6.cs",
-              "RelativeToolTip": "XMLCK\\Form6.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBsAAAANAAAAAAAAAA==",
+              "Title": "TKThuocNhap.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuocNhap.cs",
+              "RelativeDocumentMoniker": "XMLCK\\TKThuocNhap.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuocNhap.cs",
+              "RelativeToolTip": "XMLCK\\TKThuocNhap.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:49.866Z"
+              "WhenOpened": "2024-11-25T15:18:56.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Form5.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form5.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form5.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form5.cs",
-              "RelativeToolTip": "XMLCK\\Form5.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Title": "BanGiao.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\BanGiao.cs",
+              "RelativeDocumentMoniker": "XMLCK\\BanGiao.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\BanGiao.cs",
+              "RelativeToolTip": "XMLCK\\BanGiao.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:45.031Z"
+              "WhenOpened": "2024-11-25T15:18:49.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Form4.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form4.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form4.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form4.cs",
-              "RelativeToolTip": "XMLCK\\Form4.cs",
+              "Title": "Kho.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Kho.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs",
+              "RelativeToolTip": "XMLCK\\Kho.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:39.446Z"
+              "WhenOpened": "2024-11-25T15:18:45.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form3.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Form3.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form3.cs",
-              "RelativeToolTip": "XMLCK\\Form3.cs",
+              "Title": "Thuoc.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Thuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs",
+              "RelativeToolTip": "XMLCK\\Thuoc.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:32.586Z"
+              "WhenOpened": "2024-11-25T15:18:39.446Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form2.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Form2.cs",
               "RelativeDocumentMoniker": "XMLCK\\Form2.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\XMLCK\\XMLCK\\Form2.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Form2.cs",
               "RelativeToolTip": "XMLCK\\Form2.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAAwEsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

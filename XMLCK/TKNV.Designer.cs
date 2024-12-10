@@ -1,6 +1,6 @@
 ﻿namespace XMLCK
 {
-    partial class Form8
+    partial class TKNV
     {
         /// <summary>
         /// Required designer variable.

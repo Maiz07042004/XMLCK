@@ -1,6 +1,6 @@
 ﻿namespace XMLCK
 {
-    partial class Form7
+    partial class TKThuocNhap
     {
         /// <summary>
         /// Required designer variable.

@@ -1,6 +1,6 @@
 ﻿namespace XMLCK
 {
-    partial class Form6
+    partial class BanGiao
     {
         /// <summary>
         /// Required designer variable.
