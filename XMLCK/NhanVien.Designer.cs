@@ -37,18 +37,18 @@
             this.TìmKiếmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.PictureBox1 = new System.Windows.Forms.PictureBox();
             this.TableNV = new System.Windows.Forms.DataGridView();
-            this.Button2 = new System.Windows.Forms.Button();
+            this.Sua = new System.Windows.Forms.Button();
             this.Button5 = new System.Windows.Forms.Button();
             this.Button4 = new System.Windows.Forms.Button();
             this.Button3 = new System.Windows.Forms.Button();
-            this.GroupBox2 = new System.Windows.Forms.GroupBox();
+            this.GBchucVu = new System.Windows.Forms.GroupBox();
             this.RadioButton4 = new System.Windows.Forms.RadioButton();
             this.RadioButton3 = new System.Windows.Forms.RadioButton();
             this.GroupBox1 = new System.Windows.Forms.GroupBox();
             this.RadioButton2 = new System.Windows.Forms.RadioButton();
             this.RadioButton1 = new System.Windows.Forms.RadioButton();
-            this.TextBox2 = new System.Windows.Forms.TextBox();
-            this.TextBox3 = new System.Windows.Forms.TextBox();
+            this.MaNV = new System.Windows.Forms.TextBox();
+            this.TenNV = new System.Windows.Forms.TextBox();
             this.Label8 = new System.Windows.Forms.Label();
             this.Label6 = new System.Windows.Forms.Label();
             this.Label10 = new System.Windows.Forms.Label();
@@ -59,7 +59,7 @@
             this.MenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.TableNV)).BeginInit();
-            this.GroupBox2.SuspendLayout();
+            this.GBchucVu.SuspendLayout();
             this.GroupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -149,18 +149,21 @@
             this.TableNV.RowTemplate.Height = 24;
             this.TableNV.Size = new System.Drawing.Size(662, 158);
             this.TableNV.TabIndex = 80;
+            this.TableNV.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.TableNV_CellContentClick);
+            this.TableNV.SelectionChanged += new System.EventHandler(this.TableNV_SelectionChanged_1);
             // 
-            // Button2
+            // Sua
             // 
-            this.Button2.BackColor = System.Drawing.Color.MediumTurquoise;
-            this.Button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Button2.ForeColor = System.Drawing.Color.Snow;
-            this.Button2.Location = new System.Drawing.Point(484, 387);
-            this.Button2.Name = "Button2";
-            this.Button2.Size = new System.Drawing.Size(118, 42);
-            this.Button2.TabIndex = 79;
-            this.Button2.Text = "Sửa";
-            this.Button2.UseVisualStyleBackColor = false;
+            this.Sua.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.Sua.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Sua.ForeColor = System.Drawing.Color.Snow;
+            this.Sua.Location = new System.Drawing.Point(484, 387);
+            this.Sua.Name = "Sua";
+            this.Sua.Size = new System.Drawing.Size(118, 42);
+            this.Sua.TabIndex = 79;
+            this.Sua.Text = "Sửa";
+            this.Sua.UseVisualStyleBackColor = false;
+            this.Sua.Click += new System.EventHandler(this.Sua_Click);
             // 
             // Button5
             // 
@@ -186,6 +189,7 @@
             this.Button4.TabIndex = 77;
             this.Button4.Text = "Xoá";
             this.Button4.UseVisualStyleBackColor = false;
+            this.Button4.Click += new System.EventHandler(this.Xoa_Click);
             // 
             // Button3
             // 
@@ -198,16 +202,17 @@
             this.Button3.TabIndex = 78;
             this.Button3.Text = "Thêm";
             this.Button3.UseVisualStyleBackColor = false;
+            this.Button3.Click += new System.EventHandler(this.Them_Click);
             // 
-            // GroupBox2
+            // GBchucVu
             // 
-            this.GroupBox2.Controls.Add(this.RadioButton4);
-            this.GroupBox2.Controls.Add(this.RadioButton3);
-            this.GroupBox2.Location = new System.Drawing.Point(634, 287);
-            this.GroupBox2.Name = "GroupBox2";
-            this.GroupBox2.Size = new System.Drawing.Size(244, 94);
-            this.GroupBox2.TabIndex = 75;
-            this.GroupBox2.TabStop = false;
+            this.GBchucVu.Controls.Add(this.RadioButton4);
+            this.GBchucVu.Controls.Add(this.RadioButton3);
+            this.GBchucVu.Location = new System.Drawing.Point(634, 287);
+            this.GBchucVu.Name = "GBchucVu";
+            this.GBchucVu.Size = new System.Drawing.Size(244, 94);
+            this.GBchucVu.TabIndex = 75;
+            this.GBchucVu.TabStop = false;
             // 
             // RadioButton4
             // 
@@ -254,20 +259,21 @@
             this.RadioButton1.TabIndex = 0;
             this.RadioButton1.Text = "Nam";
             this.RadioButton1.UseVisualStyleBackColor = true;
+            this.RadioButton1.CheckedChanged += new System.EventHandler(this.RdbuttonNam_CheckedChanged);
             // 
-            // TextBox2
+            // MaNV
             // 
-            this.TextBox2.Location = new System.Drawing.Point(634, 171);
-            this.TextBox2.Name = "TextBox2";
-            this.TextBox2.Size = new System.Drawing.Size(148, 22);
-            this.TextBox2.TabIndex = 73;
+            this.MaNV.Location = new System.Drawing.Point(634, 171);
+            this.MaNV.Name = "MaNV";
+            this.MaNV.Size = new System.Drawing.Size(148, 22);
+            this.MaNV.TabIndex = 73;
             // 
-            // TextBox3
+            // TenNV
             // 
-            this.TextBox3.Location = new System.Drawing.Point(634, 211);
-            this.TextBox3.Name = "TextBox3";
-            this.TextBox3.Size = new System.Drawing.Size(148, 22);
-            this.TextBox3.TabIndex = 72;
+            this.TenNV.Location = new System.Drawing.Point(634, 211);
+            this.TenNV.Name = "TenNV";
+            this.TenNV.Size = new System.Drawing.Size(148, 22);
+            this.TenNV.TabIndex = 72;
             // 
             // Label8
             // 
@@ -348,14 +354,14 @@
             this.Controls.Add(this.MenuStrip1);
             this.Controls.Add(this.PictureBox1);
             this.Controls.Add(this.TableNV);
-            this.Controls.Add(this.Button2);
+            this.Controls.Add(this.Sua);
             this.Controls.Add(this.Button5);
             this.Controls.Add(this.Button4);
             this.Controls.Add(this.Button3);
-            this.Controls.Add(this.GroupBox2);
+            this.Controls.Add(this.GBchucVu);
             this.Controls.Add(this.GroupBox1);
-            this.Controls.Add(this.TextBox2);
-            this.Controls.Add(this.TextBox3);
+            this.Controls.Add(this.MaNV);
+            this.Controls.Add(this.TenNV);
             this.Controls.Add(this.Label8);
             this.Controls.Add(this.Label6);
             this.Controls.Add(this.Label10);
@@ -371,7 +377,7 @@
             this.MenuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.TableNV)).EndInit();
-            this.GroupBox2.ResumeLayout(false);
+            this.GBchucVu.ResumeLayout(false);
             this.GroupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -389,18 +395,18 @@
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmToolStripMenuItem;
         internal System.Windows.Forms.PictureBox PictureBox1;
         internal System.Windows.Forms.DataGridView TableNV;
-        internal System.Windows.Forms.Button Button2;
+        internal System.Windows.Forms.Button Sua;
         internal System.Windows.Forms.Button Button5;
         internal System.Windows.Forms.Button Button4;
         internal System.Windows.Forms.Button Button3;
-        internal System.Windows.Forms.GroupBox GroupBox2;
+        internal System.Windows.Forms.GroupBox GBchucVu;
         internal System.Windows.Forms.RadioButton RadioButton4;
         internal System.Windows.Forms.RadioButton RadioButton3;
         internal System.Windows.Forms.GroupBox GroupBox1;
         internal System.Windows.Forms.RadioButton RadioButton2;
         internal System.Windows.Forms.RadioButton RadioButton1;
-        internal System.Windows.Forms.TextBox TextBox2;
-        internal System.Windows.Forms.TextBox TextBox3;
+        internal System.Windows.Forms.TextBox MaNV;
+        internal System.Windows.Forms.TextBox TenNV;
         internal System.Windows.Forms.Label Label8;
         internal System.Windows.Forms.Label Label6;
         internal System.Windows.Forms.Label Label10;
