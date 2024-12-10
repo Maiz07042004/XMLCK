@@ -1,0 +1,38 @@
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\bin\Debug\XMLCK.exe.config
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\bin\Debug\XMLCK.exe
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\bin\Debug\XMLCK.pdb
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.AssemblyReference.cache
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form1.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form10.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.QuanLiThuoc.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form3.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form4.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form5.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form6.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form7.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form8.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Form9.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.Properties.Resources.resources
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.GenerateResource.cache
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.CoreCompileInputs.cache
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.exe
+C:\MonHoc\124-HK1\124-THXML\XMLCK\XMLCK\obj\Debug\XMLCK.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\bin\Debug\XMLCK.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\bin\Debug\XMLCK.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\bin\Debug\XMLCK.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form1.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form10.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.QuanLiThuoc.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form3.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form4.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form5.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form6.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form7.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form8.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Form9.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\XMLCK\XMLCK\obj\Debug\XMLCK.pdb
