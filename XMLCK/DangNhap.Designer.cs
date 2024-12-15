@@ -108,6 +108,7 @@
             this.Label3.Size = new System.Drawing.Size(491, 40);
             this.Label3.TabIndex = 22;
             this.Label3.Text = "ĐĂNG NHẬP QUẢN LÍ NHÀ THUỐC";
+            this.Label3.Click += new System.EventHandler(this.Label3_Click);
             // 
             // Label1
             // 
@@ -119,7 +120,7 @@
             this.Label1.TabIndex = 23;
             this.Label1.Text = "Tên Đăng Nhập";
             // 
-            // Form1
+            // DangNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -133,7 +134,7 @@
             this.Controls.Add(this.Label2);
             this.Controls.Add(this.Label3);
             this.Controls.Add(this.Label1);
-            this.Name = "Form1";
+            this.Name = "DangNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

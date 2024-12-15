@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="ThongKeTienNhapThuocTheoThang" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ThongKeTienNhapThuocTheoThang">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Thang" type="xs:int" minOccurs="0" />
+                <xs:element name="Nam" type="xs:int" minOccurs="0" />
+                <xs:element name="TongTienNhap" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ThongKeTienNhapThuocTheoThang>
+    <Thang>2</Thang>
+    <Nam>2024</Nam>
+    <TongTienNhap>2250000</TongTienNhap>
+  </ThongKeTienNhapThuocTheoThang>
+  <ThongKeTienNhapThuocTheoThang>
+    <Thang>3</Thang>
+    <Nam>2024</Nam>
+    <TongTienNhap>800000</TongTienNhap>
+  </ThongKeTienNhapThuocTheoThang>
+  <ThongKeTienNhapThuocTheoThang>
+    <Thang>5</Thang>
+    <Nam>2024</Nam>
+    <TongTienNhap>6260000</TongTienNhap>
+  </ThongKeTienNhapThuocTheoThang>
+  <ThongKeTienNhapThuocTheoThang>
+    <Thang>12</Thang>
+    <Nam>2024</Nam>
+    <TongTienNhap>1000000</TongTienNhap>
+  </ThongKeTienNhapThuocTheoThang>
+</NewDataSet>

@@ -4,10 +4,12 @@ using System.ComponentModel;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Xml;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace XMLCK
@@ -53,8 +55,34 @@ namespace XMLCK
 
                             if (dt.Rows.Count > 0)
                             {
-                                string filePath = "NhanVien.xml";
+                                // Đường dẫn tuyệt đối để lưu file XML
+                                string filePath = Path.Combine(Application.StartupPath, "NhanVien.xml");
+
+                                // Ghi dữ liệu và schema vào XML
                                 dt.WriteXml(filePath, XmlWriteMode.WriteSchema);
+
+                                // Đọc lại và chỉnh sửa phần tử gốc nếu cần thiết
+                                XmlDocument xmlDoc = new XmlDocument();
+                                xmlDoc.Load(filePath);
+
+                                // Kiểm tra và thay đổi tên phần tử gốc (nếu cần)
+                                if (xmlDoc.DocumentElement.Name != "NewDataSet")
+                                {
+                                    XmlElement newRoot = xmlDoc.CreateElement("NewDataSet");
+                                    xmlDoc.AppendChild(newRoot);
+
+                                    // Di chuyển tất cả các phần tử con vào phần tử gốc mới
+                                    foreach (XmlNode node in xmlDoc.DocumentElement.ChildNodes)
+                                    {
+                                        newRoot.AppendChild(node);
+                                    }
+
+                                    // Xóa phần tử gốc cũ (DocumentElement)
+                                    xmlDoc.RemoveChild(xmlDoc.DocumentElement);
+                                }
+
+                                // Lưu lại file XML với phần tử gốc mới
+                                xmlDoc.Save(filePath);
                             }
                             else
                             {
@@ -70,7 +98,7 @@ namespace XMLCK
             }
         }
 
-        private void LoadDataFromXML()
+            private void LoadDataFromXML()
         {
             try
             {
@@ -353,5 +381,85 @@ namespace XMLCK
                 MessageBox.Show("Lỗi: " + ex.Message);
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            XuatTatCaNhanVien();
+        }
+
+        private void XuatTatCaNhanVien()
+        {
+            try
+            {
+                // Đường dẫn tới file XML
+                string fileXML = "NhanVien.xml"; // Đảm bảo tên file XML là chính xác
+
+                // Tạo một đối tượng XmlDocument
+                XmlDocument xmlDoc = new XmlDocument();
+                xmlDoc.Load(Path.Combine(Application.StartupPath, fileXML));
+
+                // Kiểm tra nếu root node không phải là "NewDataSet"
+                if (xmlDoc.DocumentElement.Name != "NewDataSet")
+                {
+                    XmlElement newRoot = xmlDoc.CreateElement("NewDataSet");
+
+                    // Di chuyển toàn bộ con của root node hiện tại sang node "NewDataSet"
+                    foreach (XmlNode child in xmlDoc.DocumentElement.ChildNodes)
+                    {
+                        newRoot.AppendChild(child.CloneNode(true));
+                    }
+
+                    // Thay thế root node hiện tại bằng "NewDataSet"
+                    xmlDoc.ReplaceChild(newRoot, xmlDoc.DocumentElement);
+                }
+
+                // Lấy tất cả các node NhanVien
+                XmlNodeList nodes = xmlDoc.SelectNodes("/NewDataSet/NhanVien");
+
+                // Kiểm tra nếu có dữ liệu
+                if (nodes.Count > 0)
+                {
+                    // Sử dụng StringBuilder để tạo nội dung HTML
+                    StringBuilder htmlContent = new StringBuilder();
+
+                    // Bắt đầu HTML
+                    htmlContent.Append("<html><body>");
+                    htmlContent.Append("<h1>Danh sách tất cả nhân viên</h1>");
+                    htmlContent.Append("<table border='1'><tr><th>Mã Nhân Viên</th><th>Tên Nhân Viên</th><th>Giới Tính</th><th>Chức Vụ</th></tr>");
+
+                    // Duyệt qua các node NhanVien và thêm vào nội dung HTML
+                    foreach (XmlNode node in nodes)
+                    {
+                        htmlContent.Append("<tr>");
+                        htmlContent.Append("<td>" + node.SelectSingleNode("maNV")?.InnerText.Trim() + "</td>");
+                        htmlContent.Append("<td>" + node.SelectSingleNode("tenNV")?.InnerText.Trim() + "</td>");
+                        htmlContent.Append("<td>" + node.SelectSingleNode("gioiTinh")?.InnerText.Trim() + "</td>");
+                        htmlContent.Append("<td>" + node.SelectSingleNode("tenCV")?.InnerText.Trim() + "</td>");
+                        htmlContent.Append("</tr>");
+                    }
+
+                    // Kết thúc bảng và HTML
+                    htmlContent.Append("</table>");
+                    htmlContent.Append("</body></html>");
+
+                    // Ghi nội dung HTML ra một file tạm thời
+                    string tempHtmlFile = Path.Combine(Application.StartupPath, "DanhSachNhanVien.html");
+                    File.WriteAllText(tempHtmlFile, htmlContent.ToString());
+
+                    // Mở file HTML bằng trình duyệt mặc định
+                    System.Diagnostics.Process.Start(tempHtmlFile);
+                }
+                else
+                {
+                    MessageBox.Show("Không có dữ liệu nhân viên trong file XML.");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Lỗi khi xuất danh sách nhân viên: {ex.Message}");
+            }
+        }
+
+
     }
 }

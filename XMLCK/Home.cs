@@ -77,5 +77,26 @@ namespace XMLCK
             Form3.Show();
             this.Hide();
         }
+
+        private void ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ThongKeSoLuongTheoNhomThuoc Form3 = new ThongKeSoLuongTheoNhomThuoc();
+            Form3.Show();
+            this.Hide();
+        }
+
+        private void ThốngKêTiềnNhậpThuốcToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ThongKeTienNhapThuocTheoThang Form3 = new ThongKeTienNhapThuocTheoThang();
+            Form3.Show();
+            this.Hide();
+        }
+
+        private void ThốngKêChứcVụToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ThongKeChucVu Form3 = new ThongKeChucVu();
+            Form3.Show();
+            this.Hide();
+        }
     }
 }

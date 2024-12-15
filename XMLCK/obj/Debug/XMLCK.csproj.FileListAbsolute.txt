@@ -55,3 +55,6 @@ C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.GenerateRe
 C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.csproj.CoreCompileInputs.cache
 C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.exe
 C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.pdb
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.ThongKeChucVu.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.ThongKeSoLuongTheoNhomThuoc.resources
+C:\MonHoc\124-HK1\124-THXML\CK_XML\XMLCK\XMLCK\obj\Debug\XMLCK.ThongKeTienNhapThuocTheoThang.resources

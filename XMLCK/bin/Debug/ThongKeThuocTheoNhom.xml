@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="ThongKeThuocTheoNhom">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="tenNhomThuoc" type="xs:string" minOccurs="0" />
+                <xs:element name="SoLuong" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <ThongKeThuocTheoNhom>
+    <tenNhomThuoc>Thuốc chống viêm</tenNhomThuoc>
+    <SoLuong>0</SoLuong>
+  </ThongKeThuocTheoNhom>
+  <ThongKeThuocTheoNhom>
+    <tenNhomThuoc>Thuốc đau đầu</tenNhomThuoc>
+    <SoLuong>2</SoLuong>
+  </ThongKeThuocTheoNhom>
+  <ThongKeThuocTheoNhom>
+    <tenNhomThuoc>Thuốc giảm đau</tenNhomThuoc>
+    <SoLuong>2</SoLuong>
+  </ThongKeThuocTheoNhom>
+  <ThongKeThuocTheoNhom>
+    <tenNhomThuoc>Thuốc hạ sốt</tenNhomThuoc>
+    <SoLuong>1</SoLuong>
+  </ThongKeThuocTheoNhom>
+  <ThongKeThuocTheoNhom>
+    <tenNhomThuoc>Thuốc ho</tenNhomThuoc>
+    <SoLuong>0</SoLuong>
+  </ThongKeThuocTheoNhom>
+  <ThongKeThuocTheoNhom>
+    <tenNhomThuoc>Thuốc kháng sinh</tenNhomThuoc>
+    <SoLuong>1</SoLuong>
+  </ThongKeThuocTheoNhom>
+</NewDataSet>

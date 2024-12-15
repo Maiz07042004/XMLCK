@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Thuoc>
+    <maThuoc>T001      </maThuoc>
+    <tenThuoc>Paracetamol</tenThuoc>
+    <ngaySX>2023-01-15T00:00:00+07:00</ngaySX>
+    <ngayHH>2025-01-15T00:00:00+07:00</ngayHH>
+    <congDung>Giảm đau, hạ sốt</congDung>
+    <gia>5000</gia>
+    <maNhomThuoc>NT002     </maNhomThuoc>
+  </Thuoc>
+  <Thuoc>
+    <maThuoc>T002      </maThuoc>
+    <tenThuoc>Ibuprofen</tenThuoc>
+    <ngaySX>2023-02-20T00:00:00+07:00</ngaySX>
+    <ngayHH>2025-02-20T00:00:00+07:00</ngayHH>
+    <congDung>Giảm đau, viêm</congDung>
+    <gia>8000</gia>
+    <maNhomThuoc>NT001     </maNhomThuoc>
+  </Thuoc>
+  <Thuoc>
+    <maThuoc>T003      </maThuoc>
+    <tenThuoc>Acetaminophen</tenThuoc>
+    <ngaySX>2023-03-10T00:00:00+07:00</ngaySX>
+    <ngayHH>2025-03-10T00:00:00+07:00</ngayHH>
+    <congDung>Giảm đau, hạ sốt</congDung>
+    <gia>7000</gia>
+    <maNhomThuoc>NT002     </maNhomThuoc>
+  </Thuoc>
+  <Thuoc>
+    <maThuoc>T004      </maThuoc>
+    <tenThuoc>Aspirin</tenThuoc>
+    <ngaySX>2023-04-25T00:00:00+07:00</ngaySX>
+    <ngayHH>2025-04-25T00:00:00+07:00</ngayHH>
+    <congDung>Giảm đau, hạ sốt</congDung>
+    <gia>6000</gia>
+    <maNhomThuoc>NT004     </maNhomThuoc>
+  </Thuoc>
+  <Thuoc>
+    <maThuoc>T005      </maThuoc>
+    <tenThuoc>Naproxen</tenThuoc>
+    <ngaySX>2023-05-10T00:00:00+07:00</ngaySX>
+    <ngayHH>2025-05-10T00:00:00+07:00</ngayHH>
+    <congDung>Giảm đau, viêm</congDung>
+    <gia>9000</gia>
+    <maNhomThuoc>NT004     </maNhomThuoc>
+  </Thuoc>
+  <Thuoc>
+    <maThuoc>T006      </maThuoc>
+    <tenThuoc>Amoxicillin</tenThuoc>
+    <ngaySX>2023-06-15T00:00:00+07:00</ngaySX>
+    <ngayHH>2025-06-15T00:00:00+07:00</ngayHH>
+    <congDung>Chống nhiễm khuẩn</congDung>
+    <gia>12000</gia>
+    <maNhomThuoc>NT006     </maNhomThuoc>
+  </Thuoc>
+</DocumentElement>

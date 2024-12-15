@@ -1,0 +1,111 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TimKiemNV" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TimKiemNV">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="maNV" type="xs:string" minOccurs="0" />
+                <xs:element name="tenNV" type="xs:string" minOccurs="0" />
+                <xs:element name="gioiTinh" type="xs:string" minOccurs="0" />
+                <xs:element name="tenCV" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TimKiemNV>
+    <maNV>NV001     </maNV>
+    <tenNV>Nguyễn Văn A</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV002     </maNV>
+    <tenNV>Trần Thị B</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV003     </maNV>
+    <tenNV>Phạm Văn C</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV004     </maNV>
+    <tenNV>Lê Thị D</tenNV>
+    <gioiTinh>Nữ</gioiTinh>
+    <tenCV>Nhân viên kho thuốc</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV005     </maNV>
+    <tenNV>Trần Anh E</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV006     </maNV>
+    <tenNV>Nguyễn Thị F</tenNV>
+    <gioiTinh>Nữ</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV007     </maNV>
+    <tenNV>Hoàng Văn G</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV008     </maNV>
+    <tenNV>Vũ Thị H</tenNV>
+    <gioiTinh>Nữ</gioiTinh>
+    <tenCV>Nhân viên kho thuốc</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV009     </maNV>
+    <tenNV>Đặng Anh I</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV010     </maNV>
+    <tenNV>Lý Thị K</tenNV>
+    <gioiTinh>Nữ</gioiTinh>
+    <tenCV>Nhân viên kho thuốc</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV011     </maNV>
+    <tenNV>Phan Văn L</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên kho thuốc</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV012     </maNV>
+    <tenNV>Trương Thị M</tenNV>
+    <gioiTinh>Nữ</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV013     </maNV>
+    <tenNV>Hoàng Thị N</tenNV>
+    <gioiTinh>Nữ</gioiTinh>
+    <tenCV>Nhân viên kho thuốc</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV014     </maNV>
+    <tenNV>Lê Văn O</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên Dược</tenCV>
+  </TimKiemNV>
+  <TimKiemNV>
+    <maNV>NV015     </maNV>
+    <tenNV>Trần Thị O</tenNV>
+    <gioiTinh>Nam</gioiTinh>
+    <tenCV>Nhân viên kho thuốc</tenCV>
+  </TimKiemNV>
+</NewDataSet>

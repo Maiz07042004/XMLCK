@@ -33,9 +33,8 @@
             this.menu2 = new System.Windows.Forms.ToolStripMenuItem();
             this.menu3 = new System.Windows.Forms.ToolStripMenuItem();
             this.menu4 = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu5 = new System.Windows.Forms.ToolStripMenuItem();
             this.TìmKiếmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.DataGrid1 = new System.Windows.Forms.DataGridView();
+            this.TableThuoc = new System.Windows.Forms.DataGridView();
             this.Button1 = new System.Windows.Forms.Button();
             this.Button5 = new System.Windows.Forms.Button();
             this.Button4 = new System.Windows.Forms.Button();
@@ -57,8 +56,9 @@
             this.Label4 = new System.Windows.Forms.Label();
             this.Label3 = new System.Windows.Forms.Label();
             this.Label1 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
             this.MenuStrip1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TableThuoc)).BeginInit();
             this.GroupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -71,7 +71,6 @@
             this.menu2,
             this.menu3,
             this.menu4,
-            this.menu5,
             this.TìmKiếmToolStripMenuItem});
             this.MenuStrip1.Location = new System.Drawing.Point(0, 0);
             this.MenuStrip1.Name = "MenuStrip1";
@@ -112,13 +111,6 @@
             this.menu4.Size = new System.Drawing.Size(144, 27);
             this.menu4.Text = "Bàn giao thuốc";
             // 
-            // menu5
-            // 
-            this.menu5.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.menu5.Name = "menu5";
-            this.menu5.Size = new System.Drawing.Size(99, 27);
-            this.menu5.Text = "Thống kê";
-            // 
             // TìmKiếmToolStripMenuItem
             // 
             this.TìmKiếmToolStripMenuItem.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -126,37 +118,39 @@
             this.TìmKiếmToolStripMenuItem.Size = new System.Drawing.Size(100, 27);
             this.TìmKiếmToolStripMenuItem.Text = "Tìm kiếm";
             // 
-            // DataGrid1
+            // TableThuoc
             // 
-            this.DataGrid1.AllowUserToAddRows = false;
-            this.DataGrid1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
-            this.DataGrid1.BackgroundColor = System.Drawing.Color.LightCyan;
-            this.DataGrid1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DataGrid1.Location = new System.Drawing.Point(61, 424);
-            this.DataGrid1.Name = "DataGrid1";
-            this.DataGrid1.RowHeadersWidth = 51;
-            this.DataGrid1.RowTemplate.Height = 24;
-            this.DataGrid1.Size = new System.Drawing.Size(966, 162);
-            this.DataGrid1.TabIndex = 64;
+            this.TableThuoc.AllowUserToAddRows = false;
+            this.TableThuoc.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            this.TableThuoc.BackgroundColor = System.Drawing.Color.LightCyan;
+            this.TableThuoc.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.TableThuoc.Location = new System.Drawing.Point(61, 424);
+            this.TableThuoc.Name = "TableThuoc";
+            this.TableThuoc.RowHeadersWidth = 51;
+            this.TableThuoc.RowTemplate.Height = 24;
+            this.TableThuoc.Size = new System.Drawing.Size(966, 162);
+            this.TableThuoc.TabIndex = 64;
+            this.TableThuoc.SelectionChanged += new System.EventHandler(this.TableThuoc_SelectionChanged);
             // 
             // Button1
             // 
             this.Button1.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button1.ForeColor = System.Drawing.Color.Snow;
-            this.Button1.Location = new System.Drawing.Point(565, 355);
+            this.Button1.Location = new System.Drawing.Point(485, 355);
             this.Button1.Name = "Button1";
             this.Button1.Size = new System.Drawing.Size(130, 34);
             this.Button1.TabIndex = 63;
             this.Button1.Text = "Sửa";
             this.Button1.UseVisualStyleBackColor = false;
+            this.Button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // Button5
             // 
             this.Button5.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button5.ForeColor = System.Drawing.Color.Snow;
-            this.Button5.Location = new System.Drawing.Point(760, 355);
+            this.Button5.Location = new System.Drawing.Point(912, 355);
             this.Button5.Name = "Button5";
             this.Button5.Size = new System.Drawing.Size(126, 34);
             this.Button5.TabIndex = 60;
@@ -169,24 +163,26 @@
             this.Button4.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button4.ForeColor = System.Drawing.Color.Snow;
-            this.Button4.Location = new System.Drawing.Point(365, 355);
+            this.Button4.Location = new System.Drawing.Point(265, 355);
             this.Button4.Name = "Button4";
             this.Button4.Size = new System.Drawing.Size(130, 34);
             this.Button4.TabIndex = 61;
             this.Button4.Text = "Xoá";
             this.Button4.UseVisualStyleBackColor = false;
+            this.Button4.Click += new System.EventHandler(this.Button4_Click);
             // 
             // Button2
             // 
             this.Button2.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button2.ForeColor = System.Drawing.Color.Snow;
-            this.Button2.Location = new System.Drawing.Point(182, 355);
+            this.Button2.Location = new System.Drawing.Point(82, 355);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(119, 34);
             this.Button2.TabIndex = 62;
             this.Button2.Text = "Thêm";
             this.Button2.UseVisualStyleBackColor = false;
+            this.Button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Label9
             // 
@@ -343,14 +339,28 @@
             this.Label1.TabIndex = 58;
             this.Label1.Text = "NHẬP THÔNG TIN THUỐC";
             // 
-            // Form4
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.Snow;
+            this.button3.Location = new System.Drawing.Point(713, 355);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(126, 34);
+            this.button3.TabIndex = 66;
+            this.button3.Text = "Xuất XML";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // Thuoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1200, 610);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.MenuStrip1);
-            this.Controls.Add(this.DataGrid1);
+            this.Controls.Add(this.TableThuoc);
             this.Controls.Add(this.Button1);
             this.Controls.Add(this.Button5);
             this.Controls.Add(this.Button4);
@@ -358,12 +368,13 @@
             this.Controls.Add(this.Label9);
             this.Controls.Add(this.GroupBox1);
             this.Controls.Add(this.Label1);
-            this.Name = "Form4";
+            this.Name = "Thuoc";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form4";
+            this.Load += new System.EventHandler(this.Thuoc_Load);
             this.MenuStrip1.ResumeLayout(false);
             this.MenuStrip1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.TableThuoc)).EndInit();
             this.GroupBox1.ResumeLayout(false);
             this.GroupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -378,9 +389,8 @@
         internal System.Windows.Forms.ToolStripMenuItem menu2;
         internal System.Windows.Forms.ToolStripMenuItem menu3;
         internal System.Windows.Forms.ToolStripMenuItem menu4;
-        internal System.Windows.Forms.ToolStripMenuItem menu5;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmToolStripMenuItem;
-        internal System.Windows.Forms.DataGridView DataGrid1;
+        internal System.Windows.Forms.DataGridView TableThuoc;
         internal System.Windows.Forms.Button Button1;
         internal System.Windows.Forms.Button Button5;
         internal System.Windows.Forms.Button Button4;
@@ -402,5 +412,6 @@
         internal System.Windows.Forms.Label Label4;
         internal System.Windows.Forms.Label Label3;
         internal System.Windows.Forms.Label Label1;
+        internal System.Windows.Forms.Button button3;
     }
 }

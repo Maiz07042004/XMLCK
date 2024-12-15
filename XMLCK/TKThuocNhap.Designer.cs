@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.ComboBox1 = new System.Windows.Forms.ComboBox();
             this.PictureBox1 = new System.Windows.Forms.PictureBox();
             this.Label4 = new System.Windows.Forms.Label();
             this.TextBox2 = new System.Windows.Forms.TextBox();
@@ -36,37 +35,14 @@
             this.DataGrid1 = new System.Windows.Forms.DataGridView();
             this.Button1 = new System.Windows.Forms.Button();
             this.Button2 = new System.Windows.Forms.Button();
-            this.Label2 = new System.Windows.Forms.Label();
             this.Label3 = new System.Windows.Forms.Label();
             this.TextBox1 = new System.Windows.Forms.TextBox();
             this.Label1 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // ComboBox1
-            // 
-            this.ComboBox1.ForeColor = System.Drawing.Color.DarkBlue;
-            this.ComboBox1.FormattingEnabled = true;
-            this.ComboBox1.Items.AddRange(new object[] {
-            "",
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "7",
-            "8",
-            "9",
-            "10",
-            "11",
-            "12"});
-            this.ComboBox1.Location = new System.Drawing.Point(205, 237);
-            this.ComboBox1.Name = "ComboBox1";
-            this.ComboBox1.Size = new System.Drawing.Size(108, 24);
-            this.ComboBox1.TabIndex = 144;
             // 
             // PictureBox1
             // 
@@ -141,23 +117,13 @@
             this.Button2.BackColor = System.Drawing.Color.GhostWhite;
             this.Button2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button2.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.Button2.Location = new System.Drawing.Point(256, 324);
+            this.Button2.Location = new System.Drawing.Point(129, 324);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(142, 60);
             this.Button2.TabIndex = 137;
             this.Button2.Text = "Tìm kiếm";
             this.Button2.UseVisualStyleBackColor = false;
-            // 
-            // Label2
-            // 
-            this.Label2.AutoSize = true;
-            this.Label2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Label2.ForeColor = System.Drawing.Color.SlateBlue;
-            this.Label2.Location = new System.Drawing.Point(15, 231);
-            this.Label2.Name = "Label2";
-            this.Label2.Size = new System.Drawing.Size(141, 31);
-            this.Label2.TabIndex = 136;
-            this.Label2.Text = "Tháng nhập";
+            this.Button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Label3
             // 
@@ -190,13 +156,26 @@
             this.Label1.TabIndex = 133;
             this.Label1.Text = "TÌM KIẾM THUỐC NHẬP";
             // 
-            // Form7
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.GhostWhite;
+            this.button3.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.RoyalBlue;
+            this.button3.Location = new System.Drawing.Point(323, 311);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(141, 86);
+            this.button3.TabIndex = 145;
+            this.button3.Text = "Tìm kiếm XML";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // TKThuocNhap
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(911, 610);
-            this.Controls.Add(this.ComboBox1);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.PictureBox1);
             this.Controls.Add(this.Label4);
             this.Controls.Add(this.TextBox2);
@@ -204,13 +183,13 @@
             this.Controls.Add(this.DataGrid1);
             this.Controls.Add(this.Button1);
             this.Controls.Add(this.Button2);
-            this.Controls.Add(this.Label2);
             this.Controls.Add(this.Label3);
             this.Controls.Add(this.TextBox1);
             this.Controls.Add(this.Label1);
-            this.Name = "Form7";
+            this.Name = "TKThuocNhap";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form7";
+            this.Load += new System.EventHandler(this.TKThuocNhap_Load);
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).EndInit();
@@ -220,8 +199,6 @@
         }
 
         #endregion
-
-        internal System.Windows.Forms.ComboBox ComboBox1;
         internal System.Windows.Forms.PictureBox PictureBox1;
         internal System.Windows.Forms.Label Label4;
         internal System.Windows.Forms.TextBox TextBox2;
@@ -229,9 +206,9 @@
         internal System.Windows.Forms.DataGridView DataGrid1;
         internal System.Windows.Forms.Button Button1;
         internal System.Windows.Forms.Button Button2;
-        internal System.Windows.Forms.Label Label2;
         internal System.Windows.Forms.Label Label3;
         internal System.Windows.Forms.TextBox TextBox1;
         internal System.Windows.Forms.Label Label1;
+        internal System.Windows.Forms.Button button3;
     }
 }

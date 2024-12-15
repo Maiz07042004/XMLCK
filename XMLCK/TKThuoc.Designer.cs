@@ -38,6 +38,7 @@
             this.Label3 = new System.Windows.Forms.Label();
             this.TextBox1 = new System.Windows.Forms.TextBox();
             this.Label1 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).BeginInit();
@@ -94,12 +95,13 @@
             this.Button2.BackColor = System.Drawing.Color.GhostWhite;
             this.Button2.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button2.ForeColor = System.Drawing.Color.RoyalBlue;
-            this.Button2.Location = new System.Drawing.Point(170, 283);
+            this.Button2.Location = new System.Drawing.Point(60, 283);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(142, 60);
             this.Button2.TabIndex = 116;
             this.Button2.Text = "Tìm kiếm";
             this.Button2.UseVisualStyleBackColor = false;
+            this.Button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Label2
             // 
@@ -153,12 +155,26 @@
             this.Label1.TabIndex = 111;
             this.Label1.Text = "TÌM KIẾM THÔNG TIN THUỐC";
             // 
-            // Form9
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.GhostWhite;
+            this.button3.Font = new System.Drawing.Font("Segoe UI", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.RoyalBlue;
+            this.button3.Location = new System.Drawing.Point(251, 283);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(162, 74);
+            this.button3.TabIndex = 121;
+            this.button3.Text = "Tìm kiếm XML";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // TKThuoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(945, 598);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.PictureBox2);
             this.Controls.Add(this.PictureBox1);
             this.Controls.Add(this.DataGrid1);
@@ -169,9 +185,10 @@
             this.Controls.Add(this.Label3);
             this.Controls.Add(this.TextBox1);
             this.Controls.Add(this.Label1);
-            this.Name = "Form9";
+            this.Name = "TKThuoc";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form9";
+            this.Load += new System.EventHandler(this.TKThuoc_Load);
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).EndInit();
@@ -192,5 +209,6 @@
         internal System.Windows.Forms.Label Label3;
         internal System.Windows.Forms.TextBox TextBox1;
         internal System.Windows.Forms.Label Label1;
+        internal System.Windows.Forms.Button button3;
     }
 }

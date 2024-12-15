@@ -53,9 +53,8 @@
             this.Label3 = new System.Windows.Forms.Label();
             this.Label2 = new System.Windows.Forms.Label();
             this.Label1 = new System.Windows.Forms.Label();
-            this.Button7 = new System.Windows.Forms.Button();
             this.Button6 = new System.Windows.Forms.Button();
-            this.Button5 = new System.Windows.Forms.Button();
+            this.button8 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).BeginInit();
             this.MenuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -80,6 +79,7 @@
             this.DataGrid1.RowTemplate.Height = 24;
             this.DataGrid1.Size = new System.Drawing.Size(874, 159);
             this.DataGrid1.TabIndex = 75;
+            this.DataGrid1.SelectionChanged += new System.EventHandler(this.DataGrid1_SelectionChanged);
             // 
             // TextBox5
             // 
@@ -120,7 +120,7 @@
             this.Button4.BackColor = System.Drawing.Color.MediumTurquoise;
             this.Button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button4.ForeColor = System.Drawing.Color.Snow;
-            this.Button4.Location = new System.Drawing.Point(731, 256);
+            this.Button4.Location = new System.Drawing.Point(731, 254);
             this.Button4.Name = "Button4";
             this.Button4.Size = new System.Drawing.Size(96, 62);
             this.Button4.TabIndex = 70;
@@ -139,6 +139,7 @@
             this.Button3.TabIndex = 69;
             this.Button3.Text = "Sửa";
             this.Button3.UseVisualStyleBackColor = false;
+            this.Button3.Click += new System.EventHandler(this.Button3_Click);
             // 
             // DateTimePicker1
             // 
@@ -238,6 +239,7 @@
             this.Button2.TabIndex = 63;
             this.Button2.Text = "Xoá";
             this.Button2.UseVisualStyleBackColor = false;
+            this.Button2.Click += new System.EventHandler(this.Button2_Click);
             // 
             // Button1
             // 
@@ -250,6 +252,7 @@
             this.Button1.TabIndex = 64;
             this.Button1.Text = "Thêm";
             this.Button1.UseVisualStyleBackColor = false;
+            this.Button1.Click += new System.EventHandler(this.Button1_Click);
             // 
             // TextBox3
             // 
@@ -298,18 +301,6 @@
             this.Label1.TabIndex = 58;
             this.Label1.Text = "NHẬP THUỐC VÀO KHO";
             // 
-            // Button7
-            // 
-            this.Button7.BackColor = System.Drawing.Color.MediumTurquoise;
-            this.Button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Button7.ForeColor = System.Drawing.Color.Snow;
-            this.Button7.Location = new System.Drawing.Point(377, 579);
-            this.Button7.Name = "Button7";
-            this.Button7.Size = new System.Drawing.Size(151, 44);
-            this.Button7.TabIndex = 79;
-            this.Button7.Text = "Report";
-            this.Button7.UseVisualStyleBackColor = false;
-            // 
             // Button6
             // 
             this.Button6.BackColor = System.Drawing.Color.MediumTurquoise;
@@ -321,28 +312,29 @@
             this.Button6.TabIndex = 77;
             this.Button6.Text = "Đã thanh toán";
             this.Button6.UseVisualStyleBackColor = false;
+            this.Button6.Click += new System.EventHandler(this.Button6_Click);
             // 
-            // Button5
+            // button8
             // 
-            this.Button5.BackColor = System.Drawing.Color.MediumTurquoise;
-            this.Button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Button5.ForeColor = System.Drawing.Color.Snow;
-            this.Button5.Location = new System.Drawing.Point(582, 579);
-            this.Button5.Name = "Button5";
-            this.Button5.Size = new System.Drawing.Size(151, 44);
-            this.Button5.TabIndex = 78;
-            this.Button5.Text = "In hoá đơn";
-            this.Button5.UseVisualStyleBackColor = false;
+            this.button8.BackColor = System.Drawing.Color.MediumTurquoise;
+            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.ForeColor = System.Drawing.Color.Snow;
+            this.button8.Location = new System.Drawing.Point(514, 579);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(208, 44);
+            this.button8.TabIndex = 80;
+            this.button8.Text = "Xuất XML";
+            this.button8.UseVisualStyleBackColor = false;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
-            // Form5
+            // Kho
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1079, 635);
-            this.Controls.Add(this.Button7);
+            this.Controls.Add(this.button8);
             this.Controls.Add(this.Button6);
-            this.Controls.Add(this.Button5);
             this.Controls.Add(this.ComboBox1);
             this.Controls.Add(this.DataGrid1);
             this.Controls.Add(this.TextBox5);
@@ -362,9 +354,10 @@
             this.Controls.Add(this.Label3);
             this.Controls.Add(this.Label2);
             this.Controls.Add(this.Label1);
-            this.Name = "Form5";
+            this.Name = "Kho";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form5";
+            this.Load += new System.EventHandler(this.Kho_Load);
             ((System.ComponentModel.ISupportInitialize)(this.DataGrid1)).EndInit();
             this.MenuStrip1.ResumeLayout(false);
             this.MenuStrip1.PerformLayout();
@@ -391,7 +384,6 @@
         internal System.Windows.Forms.ToolStripMenuItem menu2;
         internal System.Windows.Forms.ToolStripMenuItem menu3;
         internal System.Windows.Forms.ToolStripMenuItem menu4;
-        internal System.Windows.Forms.ToolStripMenuItem menu5;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmToolStripMenuItem;
         internal System.Windows.Forms.Button Button2;
         internal System.Windows.Forms.Button Button1;
@@ -400,8 +392,8 @@
         internal System.Windows.Forms.Label Label3;
         internal System.Windows.Forms.Label Label2;
         internal System.Windows.Forms.Label Label1;
-        internal System.Windows.Forms.Button Button7;
         internal System.Windows.Forms.Button Button6;
-        internal System.Windows.Forms.Button Button5;
+        internal System.Windows.Forms.ToolStripMenuItem menu5;
+        internal System.Windows.Forms.Button button8;
     }
 }

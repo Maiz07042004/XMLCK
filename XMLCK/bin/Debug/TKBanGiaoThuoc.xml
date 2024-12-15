@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="TKBanGiaoThuoc" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="TKBanGiaoThuoc">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="maBG" type="xs:string" minOccurs="0" />
+                <xs:element name="maNV" type="xs:string" minOccurs="0" />
+                <xs:element name="maThuoc" type="xs:string" minOccurs="0" />
+                <xs:element name="phong" type="xs:string" minOccurs="0" />
+                <xs:element name="ngayBanGiao" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <TKBanGiaoThuoc>
+    <maBG>BG001     </maBG>
+    <maNV>NV001     </maNV>
+    <maThuoc>T002      </maThuoc>
+    <phong>Phòng 1</phong>
+    <ngayBanGiao>2024-05-08T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG0016    </maBG>
+    <maNV>NV001     </maNV>
+    <maThuoc>T001      </maThuoc>
+    <phong>Phòng 1</phong>
+    <ngayBanGiao>2024-12-10T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG002     </maBG>
+    <maNV>NV002     </maNV>
+    <maThuoc>T002      </maThuoc>
+    <phong>Phòng 2</phong>
+    <ngayBanGiao>2024-05-07T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG003     </maBG>
+    <maNV>NV003     </maNV>
+    <maThuoc>T001      </maThuoc>
+    <phong>Phòng 3</phong>
+    <ngayBanGiao>2024-05-09T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG004     </maBG>
+    <maNV>NV004     </maNV>
+    <maThuoc>T002      </maThuoc>
+    <phong>Phòng 4</phong>
+    <ngayBanGiao>2024-01-10T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG005     </maBG>
+    <maNV>NV005     </maNV>
+    <maThuoc>T003      </maThuoc>
+    <phong>Phòng 5</phong>
+    <ngayBanGiao>2024-03-11T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG013     </maBG>
+    <maNV>NV013     </maNV>
+    <maThuoc>T004      </maThuoc>
+    <phong>Phòng 6</phong>
+    <ngayBanGiao>2024-04-11T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG014     </maBG>
+    <maNV>NV014     </maNV>
+    <maThuoc>T006      </maThuoc>
+    <phong>Phòng 7</phong>
+    <ngayBanGiao>2024-02-12T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+  <TKBanGiaoThuoc>
+    <maBG>BG015     </maBG>
+    <maNV>NV015     </maNV>
+    <maThuoc>T006      </maThuoc>
+    <phong>Phòng 8</phong>
+    <ngayBanGiao>2024-05-13T00:00:00+07:00</ngayBanGiao>
+  </TKBanGiaoThuoc>
+</NewDataSet>

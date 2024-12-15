@@ -115,18 +115,21 @@
             this.ThốngKêChứcVụToolStripMenuItem.Name = "ThốngKêChứcVụToolStripMenuItem";
             this.ThốngKêChứcVụToolStripMenuItem.Size = new System.Drawing.Size(393, 28);
             this.ThốngKêChứcVụToolStripMenuItem.Text = "Thống kê Chức Vụ";
+            this.ThốngKêChứcVụToolStripMenuItem.Click += new System.EventHandler(this.ThốngKêChứcVụToolStripMenuItem_Click);
             // 
             // ThốngKêTiềnNhậpThuốcToolStripMenuItem
             // 
             this.ThốngKêTiềnNhậpThuốcToolStripMenuItem.Name = "ThốngKêTiềnNhậpThuốcToolStripMenuItem";
             this.ThốngKêTiềnNhậpThuốcToolStripMenuItem.Size = new System.Drawing.Size(393, 28);
             this.ThốngKêTiềnNhậpThuốcToolStripMenuItem.Text = "Thống kê tiền nhập thuốc theo tháng";
+            this.ThốngKêTiềnNhậpThuốcToolStripMenuItem.Click += new System.EventHandler(this.ThốngKêTiềnNhậpThuốcToolStripMenuItem_Click);
             // 
             // ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem
             // 
             this.ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem.Name = "ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem";
             this.ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem.Size = new System.Drawing.Size(393, 28);
             this.ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem.Text = "Thống kê số lượng theo nhóm thuốc";
+            this.ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem.Click += new System.EventHandler(this.ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem_Click);
             // 
             // TìmKiếmToolStripMenuItem
             // 
@@ -200,15 +203,15 @@
         internal System.Windows.Forms.ToolStripMenuItem menu2;
         internal System.Windows.Forms.ToolStripMenuItem menu3;
         internal System.Windows.Forms.ToolStripMenuItem menu4;
-        internal System.Windows.Forms.ToolStripMenuItem menu5;
-        internal System.Windows.Forms.ToolStripMenuItem ThốngKêChứcVụToolStripMenuItem;
-        internal System.Windows.Forms.ToolStripMenuItem ThốngKêTiềnNhậpThuốcToolStripMenuItem;
-        internal System.Windows.Forms.ToolStripMenuItem ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmThuốcNhậpToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmNhânViênToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmThôngTinThuốcToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem TìmKiếmThuốcBànGiaoToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem ĐăngNhậpToolStripMenuItem;
+        internal System.Windows.Forms.ToolStripMenuItem menu5;
+        internal System.Windows.Forms.ToolStripMenuItem ThốngKêChứcVụToolStripMenuItem;
+        internal System.Windows.Forms.ToolStripMenuItem ThốngKêTiềnNhậpThuốcToolStripMenuItem;
+        internal System.Windows.Forms.ToolStripMenuItem ThốngKêSốLượngTheoNhómThuốcToolStripMenuItem;
     }
 }

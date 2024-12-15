@@ -86,14 +86,8 @@
   </NhanVien>
   <NhanVien>
     <maNV>NV015     </maNV>
-    <tenNV>Trần Thị P</tenNV>
-    <gioiTinh>Nữ</gioiTinh>
+    <tenNV>Trần Thị O</tenNV>
+    <gioiTinh>Nam</gioiTinh>
     <tenCV>Nhân viên kho thuốc</tenCV>
-  </NhanVien>
-  <NhanVien>
-    <maNV>NV016     </maNV>
-    <tenNV>Phùng Thùy Vi</tenNV>
-    <gioiTinh>Nữ</gioiTinh>
-    <tenCV>Nhân viên Dược</tenCV>
   </NhanVien>
 </DocumentElement>

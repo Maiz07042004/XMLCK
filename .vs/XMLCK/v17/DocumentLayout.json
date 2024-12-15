@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|c:\\monhoc\\124-hk1\\124-thxml\\ck_xml\\xmlck\\xmlck\\thongketiennhapthuoctheothang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thongketiennhapthuoctheothang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\thongketiennhapthuoctheothang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thongketiennhapthuoctheothang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\thongkesoluongtheonhomthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thongkesoluongtheonhomthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\thongkesoluongtheonhomthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thongkesoluongtheonhomthuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\tkthuocnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\tkthuocnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\thuoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\xmlck\\bangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F7A832-5F2E-48B4-9E91-CA5AC51CBD03}|XMLCK\\XMLCK.csproj|solutionrelative:xmlck\\bangiao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +46,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TKThuocNhap.cs [Design]",
-              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuocNhap.cs",
-              "RelativeDocumentMoniker": "XMLCK\\TKThuocNhap.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\TKThuocNhap.cs [Design]",
-              "RelativeToolTip": "XMLCK\\TKThuocNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:15:07.612Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NhanVien.cs",
-              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\NhanVien.cs",
-              "RelativeDocumentMoniker": "XMLCK\\NhanVien.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\NhanVien.cs",
-              "RelativeToolTip": "XMLCK\\NhanVien.cs",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAmwEYAAAAJAAAAAAAAAA==",
+              "Title": "ThongKeTienNhapThuocTheoThang.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeTienNhapThuocTheoThang.cs",
+              "RelativeDocumentMoniker": "XMLCK\\ThongKeTienNhapThuocTheoThang.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeTienNhapThuocTheoThang.cs",
+              "RelativeToolTip": "XMLCK\\ThongKeTienNhapThuocTheoThang.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAkwMwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:32.586Z",
+              "WhenOpened": "2024-12-15T08:04:38.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Home.cs",
-              "RelativeDocumentMoniker": "XMLCK\\Home.cs",
-              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Home.cs [Design]",
-              "RelativeToolTip": "XMLCK\\Home.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ThongKeTienNhapThuocTheoThang.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeTienNhapThuocTheoThang.cs",
+              "RelativeDocumentMoniker": "XMLCK\\ThongKeTienNhapThuocTheoThang.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeTienNhapThuocTheoThang.cs [Design]",
+              "RelativeToolTip": "XMLCK\\ThongKeTienNhapThuocTheoThang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:14:24.664Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-15T08:04:35.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "ThongKeSoLuongTheoNhomThuoc.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs",
+              "RelativeToolTip": "XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:04:30.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKeSoLuongTheoNhomThuoc.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs [Design]",
+              "RelativeToolTip": "XMLCK\\ThongKeSoLuongTheoNhomThuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:04:26.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Thuoc.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Thuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs",
+              "RelativeToolTip": "XMLCK\\Thuoc.cs",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAYwOYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:52:41.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thuoc.cs [Design]",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Thuoc.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Thuoc.cs [Design]",
+              "RelativeToolTip": "XMLCK\\Thuoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:52:39.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kho.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs",
+              "RelativeDocumentMoniker": "XMLCK\\Kho.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs",
+              "RelativeToolTip": "XMLCK\\Kho.cs",
+              "ViewState": "AgIAAOcBAAAAAAAAAAAQwEQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:49:37.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Kho.cs [Design]",
               "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs",
               "RelativeDocumentMoniker": "XMLCK\\Kho.cs",
               "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\Kho.cs [Design]",
               "RelativeToolTip": "XMLCK\\Kho.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:18:43.155Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-15T07:49:35.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BanGiao.cs",
+              "DocumentMoniker": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\BanGiao.cs",
+              "RelativeDocumentMoniker": "XMLCK\\BanGiao.cs",
+              "ToolTip": "C:\\MonHoc\\124-HK1\\124-THXML\\CK_XML\\XMLCK\\XMLCK\\BanGiao.cs",
+              "RelativeToolTip": "XMLCK\\BanGiao.cs",
+              "ViewState": "AgIAAA4CAAAAAAAAAAAqwDECAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:48:05.609Z"
             }
           ]
         }
